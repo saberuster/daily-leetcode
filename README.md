@@ -1,2 +1,3 @@
 # daily-leetcode
-leetcode每日一题（Go，Rust，Python实现）
+
+leetcode 每日一题（Go，Rust，Python 实现）
